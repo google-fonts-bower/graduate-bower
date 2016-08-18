@@ -1,0 +1,17 @@
+{
+    "name": "graduate-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Eduardo Tunni"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/graduate-bower.git"
+    },
+    "description": "Graduate font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
